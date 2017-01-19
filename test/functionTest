@@ -1,0 +1,9 @@
+var expect = require('chai').expect
+var doMath = require('../doMath').doMath
+
+describe('doMath', function () {
+  it('should increase 15 and 23', function () {
+    // need to finish what test expects
+    expect.equal(doMath(15, 23),  )
+  })
+})
